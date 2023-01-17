@@ -38,12 +38,12 @@ Please Run:
 
 ``` python preprocess_data/marginalization.py```  
 
-##Method
+## Method
 
 The code is being sorted out.
 
 
-##Baseline
+## Baseline
 
 - [GraphConsis](https://github.com/safe-graph/DGFraud)
 
@@ -59,7 +59,7 @@ The code is being sorted out.
 
 
 
-##Reference
+## Reference
 
 <div id="refer-anchor-1"></div>
 
