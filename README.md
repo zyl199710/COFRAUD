@@ -8,11 +8,11 @@ COFRAUD is a correlation-aware fraud detection model, which innovatively incorpo
 
 COFRAUD framework is implemented on Google Colab and major libraries include:
 
-- [Pytorch = 1.13.0 + cu116](https://pytorch.org/)
+- [Pytorch = 2.1.0 + cu121](https://pytorch.org/)
 
 - [Networkx](https://networkx.org/)
 
-- [dgl = 0.9.1 + cu116](https://www.dgl.ai/)
+- [dgl = 2.0.0 + cu121](https://www.dgl.ai/)
 
 - [numpy](https://github.com/numpy/numpy)
 
@@ -32,18 +32,18 @@ In this paper, we design two statistics to prove the existence of alienation and
 
 Please Run:
 
-``` cd .../COFRAUD ```
-
 ``` python preprocess_data/alienation.py  ```
 
 ``` python preprocess_data/marginalization.py```  
 
+Please see the example <font color="orange">COFRAUD.ipynb</font>, it is run on Google Colab.
+
 ## Method
 
-The code is being sorted out.
+Please see the example in <font color="orange">COFRAUD.ipynb</font>, it is run on Google Colab.
 
 
-## Baseline
+##Baseline
 
 - [GraphConsis](https://github.com/safe-graph/DGFraud)
 
