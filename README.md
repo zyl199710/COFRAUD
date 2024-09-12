@@ -43,7 +43,7 @@ Please see the example <font color="orange">COFRAUD.ipynb</font>, it is run on G
 Please see the example in <font color="orange">COFRAUD.ipynb</font>, it is run on Google Colab.
 
 
-##Baseline
+## Baseline
 
 - [GraphConsis](https://github.com/safe-graph/DGFraud)
 
